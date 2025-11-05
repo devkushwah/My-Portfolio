@@ -1,0 +1,28 @@
+{
+    "skills": [
+    "Java", "JavaScript", "TypeScript", "HTML", "CSS",
+    "React", "Next.js", "Redux", "Node.js", "Express.js",
+    "Tailwind CSS", "Material UI", "MongoDB", "Firebase",
+    "Operating Systems", "Computer Networks", "DBMS", "OOPs"
+    ],
+    
+    "projects": [
+      {
+        "title": "InterviewPrime – AI-Powered Mock Interview System",
+        "description": "Architected an AI-driven platform for mock interviews and English coaching with real-time voice interaction and instant AI feedback. Integrated Deepgram (STT/TTS) and Gemini via OpenRouter to enable interactive conversational simulations. Built credit-based usage & history tracking to boost engagement and deliver a seamless, app-like experience.",
+        "techStack": ["Next.js", "Node.js", "Firebase", "Deepgram (TTS/STT)", "Gemini API", "OpenRouter API", "Socket.io", "Tailwind CSS"],
+        "liveLink": "https://interviewprime.vercel.app/",
+        "githubLink": "https://github.com/devkushwah/Mock-Interview-Preparation-Sytem",
+        "image": "/images/interviewPrime.png"
+      },
+      {
+        "title": "EduCore – EdTech Learning Management System (LMS)",
+        "description": "Developed a scalable LMS platform for course creation, progress tracking, and student engagement with secure JWT access. Integrated Cloudinary for optimized media handling and built a modular course structure for flexible content delivery. Delivered a responsive, production-ready UI.",
+        "techStack": ["MongoDB", "Express.js", "Node.js", "JWT Auth", "Cloudinary", "React", "Tailwind CSS"],
+        "liveLink": "https://edu-core-omega.vercel.app/",
+        "githubLink": "https://github.com/devkushwah/EduCore",
+        "image": "/images/Educore.png"
+      }
+    ]
+}
+  
